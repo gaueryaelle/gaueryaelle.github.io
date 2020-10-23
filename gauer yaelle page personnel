@@ -1,0 +1,62 @@
+<html>
+<head>
+<meta http-equiv="content-type" content="texte/html; charset=utf-8"/>
+<link href="styles/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h1> PAGE PERSONNEL</h1>
+<style>
+h1 { 
+color: #90ffc7;}
+}
+
+</style>
+<img src="DSC_0226.jpg" alt="700px"  width="550px/">
+
+<h2> ACADEMIQUE</h2>
+
+<style>
+h2 { 
+color: #40ff9f;}
+}
+color: #8b008b;}
+
+</style>
+<li>
+Je m'appelle Yaëlle.
+<br>
+ Je suis en première generale, j'ai choisi les spécialitée NSI, HGGSP(histoire géopolitique) et HLP( humanite litérature philosophie).
+</br>
+J'aimerai m'orienter dans la mode plus précisement tant que directrice artistique 
+</li>
+
+<h3>PERSO</h3>
+<style>
+h3 { 
+color: #40ff9f;}
+}
+</style>
+<li>
+<style>
+li { 
+color: #8b008b;}
+}
+</style>
+ En dehors des cours, je fais de la photographie (voir la
+ <a href="DSC_0361.jpg">photo</a>
+ )
+ </li>
+ <li>
+ 
+ Je fais aussi de la couture.
+
+ </li>
+ 
+<h4> PROJET</h4>
+ <style>
+h4 { 
+color: #40ff9f;}
+}
+</style>
+</body>
+</html>
